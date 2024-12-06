@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in a Python function. The function `function_with_uncommon_error` attempts to divide two numbers, but it does not properly handle the case where both inputs are zero, resulting in an unexpected result. A solution is provided to address this edge case and provide a more robust function.
